@@ -1,5 +1,5 @@
 # Site settings
-title: Grayscale
+title: 叫我一声东哥。你敢吗？
 email: QYD720@gmail.com
 url: https://QYD720.github.io
 description: "我是一个没有感情的二傻子。"
@@ -14,8 +14,8 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
+  - title: Weibo
+    url: https://weibo.com/u/1807233007
   - title: facebook
     url:
   - title: stack-overflow
@@ -23,7 +23,7 @@ social:
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/QYD720
 
 # Build settings
 markdown: kramdown
