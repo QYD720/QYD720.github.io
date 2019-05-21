@@ -1,5 +1,5 @@
 # Site settings
-title: 叫我一声东哥。你敢吗？
+title: 何患架上药生尘
 email: QYD720@gmail.com
 url: https://QYD720.github.io
 description: "我是一个没有感情的二傻子。"
@@ -14,17 +14,16 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Weibo
-    url: https://weibo.com/u/1807233007
+  - title:Weibo
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url:
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url:
   - title: github
-    url: https://github.com/QYD720
-
+    url: 
 # Build settings
 markdown: kramdown
 permalink: pretty
