@@ -15,15 +15,15 @@ footer: Your Website
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title:Weibo
-    url:  
+    url:  https://weibo.com/u/1807233007
   - title: facebook
-    url:
+    url:https://weibo.com/u/1807233007
   - title: stack-overflow
-    url:
+    url:https://weibo.com/u/1807233007
   - title: bitbucket
-    url:
+    url:https://weibo.com/u/1807233007
   - title: github
-    url: 
+    url: https://weibo.com/u/1807233007
 # Build settings
 markdown: kramdown
 permalink: pretty
