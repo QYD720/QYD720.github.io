@@ -19,11 +19,11 @@ social:
   - title: facebook
     url:
   - title: stack-overflow
-    url:https://weibo.com/u/1807233007
+    url:
   - title: bitbucket
-    url:https://weibo.com/u/1807233007
+    url:
   - title: github
-    url: https://weibo.com/u/1807233007
+    url:
 # Build settings
 markdown: kramdown
 permalink: pretty
